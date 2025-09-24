@@ -52,5 +52,8 @@
     "**/node_modules": true,
     "**/dist": true,
     "**/build": true
-  }
+  },
+  "cSpell.words": [
+    "twilio"
+  ]
 }
